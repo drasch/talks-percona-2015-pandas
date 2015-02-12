@@ -1,0 +1,77 @@
+title: Data Munging with Pandas
+author: David Rasch
+description: Learn to use Pandas with iPython Notebook
+date: 2015-02-12
+
+
+h1. Make your Data Work for You with Python
+
+h3. David Rasch - ReverbNation
+
+Percona University Raleigh - 2015
+
+
+!SLIDE
+h2. boring story
+
+<aside class="notes">
+Why whould I care about this?
+- download dataset, run query on command-line, import into excel, build graph, update?
+- some people: use gui tool, export data, import into excel, graph, update?
+</aside>
+
+!SLIDE down-open
+h2. what is Pandas?
+
+!SLIDE
+h2. Data Tables
+!images/flickr.com-renemensen-15292426841.jpg!
+
+!SLIDE
+h2. Import/Export
+
+!SLIDE
+h2. Querying
+
+!SLIDE
+h2. Alignment
+
+!SLIDE
+h2. Visualize
+
+!images/flickr.com-rushtipscom-8522863232.png!
+
+
+<aside class="notes">
+* Pandas allows manipulation of data tables, with automatic data alignment and connects easily with
+  visualization tools for data analysis.
+
+* why should I care?
+* What is Pandas
+* let's see
+* load datset
+* data summary
+* data types
+* head
+* select column
+* select rows by number
+* select rows by criteria
+* chain criteria
+* groupby
+* reshape
+* join
+* export
+* plot
+
+* information
+</aside>
+
+!SLIDE down-close
+
+!SLIDE
+h2. Let's see this!?
+
+!SLIDE
+h2. Links
+* "http://github.com/drasch":http://github.com/drasch
+* Photos "1":https://www.flickr.com/photos/renemensen/15292426841 "2":https://www.flickr.com/photos/rushtipscom/8522863232
