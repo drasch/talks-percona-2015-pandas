@@ -12,6 +12,7 @@ Percona University Raleigh - 2015
 
 
 !SLIDE
+
 h2. boring story
 
 <aside class="notes">
@@ -21,22 +22,28 @@ Why whould I care about this?
 </aside>
 
 !SLIDE down-open
+
 h2. what is Pandas?
 
 !SLIDE
+
 h2. Data Tables
 !images/flickr.com-renemensen-15292426841.jpg!
 
 !SLIDE
+
 h2. Import/Export
 
 !SLIDE
+
 h2. Querying
 
 !SLIDE
+
 h2. Alignment
 
 !SLIDE
+
 h2. Visualize
 
 !images/flickr.com-rushtipscom-8522863232.png!
@@ -69,9 +76,11 @@ h2. Visualize
 !SLIDE down-close
 
 !SLIDE
+
 h2. Let's see this!?
 
 !SLIDE
+
 h2. Links
 * "http://github.com/drasch":http://github.com/drasch
 * "Anaconda Python Distribution":https://store.continuum.io/cshop/anaconda/
