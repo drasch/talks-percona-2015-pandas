@@ -82,6 +82,6 @@ h2. Let's see this!?
 !SLIDE
 
 h2. Links
-* "http://github.com/drasch":http://github.com/drasch
+* "http://github.com/drasch":https://github.com/drasch/talks-percona-2015-pandas
 * "Anaconda Python Distribution":https://store.continuum.io/cshop/anaconda/
 * Photos "1":https://www.flickr.com/photos/renemensen/15292426841 "2":https://www.flickr.com/photos/rushtipscom/8522863232
